@@ -34,7 +34,7 @@
 - 역할 : 안드로이드 어플리케이션 99% 담당, APi서버 99% 담당
 - 관련 기술 : Kotlin, MVP, Spring MVC
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/1.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/2.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/3.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/4.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/5.jpg" width = "140" height = "246"/>
+<img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/1.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/2.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/3.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/4.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/5.png" width = "140" height = "246"/>
 
 ### 카풀로 드라이버
 
