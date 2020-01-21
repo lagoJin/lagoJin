@@ -49,7 +49,7 @@
 - 역할 : 안드로이드 어플리케이션 50% 담당
 - 관련 기술 : Kotlin, MVVM, DataBinding, koin
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/gupang/1.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/2.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/3.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/4.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/5.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/6.jpg" width = "264" height = "464"/> 
+<img src="https://github.com/lagoJin/resume/blob/master/images/gupang/1.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/2.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/3.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/4.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/5.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/6.jpg" width = "140" height = "246"/> 
 
 ### KMVOIE
 
