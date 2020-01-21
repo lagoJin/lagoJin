@@ -1,10 +1,11 @@
-## 소개 
+## 소개
 
 - 이름 : 강진호
 - Email : jinho6187@gmail.com
 - Github : https://github.com/lagoJin
 - Blog : https://lagoJin.github.io
 
+> 
 
 
 # 회사경력
@@ -49,6 +50,7 @@
 - 관련 기술 : Kotlin, MVVM, DataBinding, koin
 
 ### KMVOIE
+<img src="https://github.com/lagoJin/resume/blob/master/images/kmovie.gif" width = "264" height = "464"/> 
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
 - 기간 : 2019.09 ~ 
