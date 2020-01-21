@@ -44,21 +44,21 @@
 
 ### 동네마트
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/gupang/1.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/2.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/3.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/4.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/5.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/6.jpg" width = "264" height = "464"/> 
-
 - 소개 : 동네 마트에 할인 정보를 제공하는 서비스
 - 기간 : 2019.03 ~ 2019.05
 - 역할 : 안드로이드 어플리케이션 50% 담당
 - 관련 기술 : Kotlin, MVVM, DataBinding, koin
 
+<img src="https://github.com/lagoJin/resume/blob/master/images/gupang/1.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/2.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/3.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/4.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/5.jpg" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/6.jpg" width = "264" height = "464"/> 
+
 ### KMVOIE
-<img src="https://github.com/lagoJin/resume/blob/master/images/kmovie.gif" width = "264" height = "464"/> 
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
 - 기간 : 2019.09 ~ 
 - 역할 : 안드로이드 어플리케이션 & Api서버 담당
 - 관련 기술 : Kotlin, MVVM, Dagger2, Cloud function(node.js), Firestore
 
+<img src="https://github.com/lagoJin/resume/blob/master/images/kmovie.gif" width = "264" height = "464"/> 
 
 # 수상/자격증
 
