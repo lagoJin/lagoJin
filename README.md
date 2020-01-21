@@ -4,8 +4,9 @@
 - Email : jinho6187@gmail.com
 - Github : https://github.com/lagoJin
 - Blog : https://lagoJin.github.io
+- 취미 : 운동, 영화, **코딩**, **컨퍼런스 참가**
 
-> 
+> 본인의 능력에서 자만하지 않고 부족한 부분을 지속적으로 찾아 채우기 위해 노력하고 있습니다.
 
 
 # 회사경력
@@ -32,6 +33,8 @@
 - 기간 : 2019.01 ~ 2019.03
 - 역할 : 안드로이드 어플리케이션 99% 담당, APi서버 99% 담당
 - 관련 기술 : Kotlin, MVP, Spring MVC
+
+<img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/1.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/2.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/3.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/4.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/5.jpg" width = "140" height = "246"/>
 
 ### 카풀로 드라이버
 
@@ -78,7 +81,3 @@
 
 - 수상 날짜 : 2016.11
 
-
-
-
-<!-- <img src="https://github.com/lagoJin/resume/blob/master/images/kmovie.gif" width = "264" height = "464"/> -->
