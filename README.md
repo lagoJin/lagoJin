@@ -60,7 +60,7 @@
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
 - 기간 : 2019.09 ~ 
-- 역할 : 안드로이드 어플리케이션 & Api서버 담당
+- 역할 : 안드로이드 어플리케이션 100% 담당 & Api 100% 서버 담당
 - 관련 기술 : Kotlin, MVVM, Dagger2, Cloud function(node.js), Firestore
 
 <img src="https://github.com/lagoJin/resume/blob/master/images/kmovie.gif" width = "264" height = "464"/> 
