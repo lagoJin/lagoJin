@@ -56,7 +56,7 @@
 
 <img src="https://github.com/lagoJin/resume/blob/master/images/gupang/1.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/2.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/3.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/4.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/5.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/6.jpg" width = "140" height = "246"/> 
 
-### KMVOIE
+### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
 - 기간 : 2019.09 ~ 
