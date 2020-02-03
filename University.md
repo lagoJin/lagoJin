@@ -32,7 +32,7 @@
 - 역할 : 안드로이드 어플리케이션 50% 담당
 - 관련 기술 : Android, BLE
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/thermometer/thermometer1.gif" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/thermometer/thermometer2.gif" width = "264" height = "464"/>
+<img src="https://github.com/lagoJin/resume/blob/master/images/thermometer/thermometer1.png" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/thermometer/thermometer2.png" width = "264" height = "464"/>
 
 ### Space Invader
 
