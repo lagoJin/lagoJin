@@ -16,4 +16,4 @@
 - 역할 : 프로젝트 50% 담당
 - 관련 기술 : Visual Studio 2017(C, C++)
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/spaceinvader/spaceinvader1.gif" width = "464" height = "352"/><img src="https://github.com/lagoJin/resume/blob/master/images/spaceinvader/spaceinvader2.gif" width = "464" height = "352"/>
+<img src="https://github.com/lagoJin/resume/blob/master/images/spaceinvader/spaceinvader1.gif" width = "420" height = "352"/><img src="https://github.com/lagoJin/resume/blob/master/images/spaceinvader/spaceinvader2.gif" width = "420" height = "352"/>
