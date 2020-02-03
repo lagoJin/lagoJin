@@ -25,6 +25,15 @@
 - 역할 : 안드로이드 어플리케이션 50% 담당, 하드웨어 20% 담당
 - 관련 기술 : Android, Arduino, TMAP Api
 
+### D.J Thermometer
+
+- 소개 : BLE 통신이 가능한 온도계 Application
+- 기간 : 2016.06 ~ 2016.08
+- 역할 : 안드로이드 어플리케이션 50% 담당
+- 관련 기술 : Android, BLE
+
+<img src="https://github.com/lagoJin/resume/blob/master/images/thermometer/thermometer1.gif" width = "264" height = "464"/><img src="https://github.com/lagoJin/resume/blob/master/images/thermometer/thermometer2.gif" width = "264" height = "464"/>
+
 ### Space Invader
 
 - 소개 : 소켓 네트워크를 이용한 슈팅 게임
