@@ -65,7 +65,7 @@
 - 역할 : 안드로이드 어플리케이션 100% 담당 & Api 100% 서버 담당
 - 관련 기술 : Kotlin, MVVM, Dagger2, Cloud function(node.js), Firestore
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/kmovie.gif" width = "264" height = "464"/> 
+<img src="https://github.com/lagoJin/resume/blob/master/images/kmovie/kmovie.gif" width = "264" height = "464"/> 
 
 # 수상/자격증
 
