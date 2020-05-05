@@ -8,10 +8,10 @@
 
 > 본인의 능력에서 자만하지 않고 부족한 부분을 지속적으로 찾아 채우기 위해 노력하고 있습니다.
 
-
 # 회사경력
 
 ### 핏펫
+
 - 2020.03 ~
 
 ### 쉐어앤쉐어
@@ -22,7 +22,7 @@
 # 단체경력
 
 - DDD 개발 동아리(2019 ~ )
- 
+
 # 학력
 
 - 인천 가정고등학교 졸업(2009 ~ 2012)
@@ -52,7 +52,12 @@
 
 # 사이드 프로젝트
 
-### [로또약국]()
+### [로또약국](https://play.google.com/store/apps/details?id=com.tho.lotto)
+
+- 소개 : 로또 당첨정보와 랜덤번호를 생성해주는 서비스
+- 기간 : 2019.10 ~ 2020.03
+- 역할 : 안드로이드 어플리케이션 40% 담당 & Firebase Function 80% 담당
+- 관련 기술 : Kotlin, MVVM, CleanArchitecture, Dagger2, Glide, UnitTest, Mockk
 
 ### [동네마트](https://magarine-9ec6f.firebaseapp.com/)
 
@@ -66,7 +71,7 @@
 ### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
-- 기간 : 2019.09 ~ 
+- 기간 : 2019.09 ~ 2020.02
 - 역할 : 안드로이드 어플리케이션 100% 담당 & Api 100% 서버 담당
 - 관련 기술 : Kotlin, MVVM, Dagger2, Cloud function(node.js), Firestore
 
@@ -89,4 +94,3 @@
 #### 글로벌 다학제 캡스톤 디자인 - 1등상
 
 - 수상 날짜 : 2016.11
-
