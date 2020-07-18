@@ -1,0 +1,2 @@
+- 인천 가정고등학교 졸업(2009 ~ 2012)
+- [선문대학교 졸업(2012 ~ 2018)](https://github.com/lagoJin/resume/blob/master/University.md)

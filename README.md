@@ -24,10 +24,7 @@
 
 - DDD 개발 동아리(2019.10 ~ 2020.02)
 
-# 학력
-
-- 인천 가정고등학교 졸업(2009 ~ 2012)
-- [선문대학교 졸업(2012 ~ 2018)](https://github.com/lagoJin/resume/blob/master/University.md)
+## [학력](https://github.com/lagoJin/resume/blob/matser/education.md)
 
 ## [프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
 
