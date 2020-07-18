@@ -29,6 +29,6 @@
 - 인천 가정고등학교 졸업(2009 ~ 2012)
 - [선문대학교 졸업(2012 ~ 2018)](https://github.com/lagoJin/resume/blob/master/University.md)
 
-[# 프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
+# [프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
 
-[# 수상/자격증](https://github/lagoJin/resume/blob/matser/prime.md)
+# [수상/자격증](https://github/lagoJin/resume/blob/matser/prime.md)
