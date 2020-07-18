@@ -20,12 +20,12 @@
 - 2018.05 ~ 2019.07(1년 3개월)
 - 개발 1팀 (모바일 개발)
 
-# 단체경력
+### 단체경력
 
 - DDD 개발 동아리(2019.10 ~ 2020.02)
 
-## [학력](https://github.com/lagoJin/resume/blob/matser/education.md)
+### [학력](https://github.com/lagoJin/resume/blob/matser/education.md)
 
-## [프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
+### [프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
 
-## [수상/자격증](https://github/lagoJin/resume/blob/matser/prime.md)
+### [수상/자격증](https://github/lagoJin/resume/blob/matser/prime.md)
