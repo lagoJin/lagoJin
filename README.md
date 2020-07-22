@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlagoJin%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlagoJin%2Fhit-counter)](https://hits.seeyoufarm.com)<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lagoJin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 소개
