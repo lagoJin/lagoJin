@@ -2,7 +2,7 @@
 
 ## Android Enginner 
 
-Have a carrer of 1.6 years
+Have a carrer of 1.8 years
 - Fitpet (03.2020 ~
 - Share & Share (05.2018 ~ 07.2019)
 
