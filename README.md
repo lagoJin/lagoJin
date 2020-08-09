@@ -27,8 +27,8 @@
 
 - DDD 개발 동아리(2019.10 ~ 2020.02)
 
-### [학력](https://github.com/lagoJin/resume/blob/matser/education.md)
+### [학력](https://github.com/lagoJin/lagoJin/blob/master/education.md)
 
 ### [프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
 
-### [수상/자격증](https://github/lagoJin/resume/blob/matser/prime.md)
+### [수상/자격증](https://github.com/lagoJin/resume/blob/matser/prime.md)
