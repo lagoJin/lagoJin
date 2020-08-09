@@ -1,3 +1,18 @@
+### [핏펫](https://play.google.com/store/apps/details?id=kr.co.fitpet)
+
+- 소개 : 반려동물 플랫폼 서비스
+- 기간 : 2020.03 ~
+- 개발
+  - 코드 리뷰 & Git Flow 도입하여, 팀 코드 컨벤션 작성 및 코드 퀄리티 향상
+- 기존에 사용하고 있는 MVP, MVVM, MVI, RxJava 파편화 된 구조를  MVVM, Dagger2, Coroutine을 도입하여 아키텍처 통합
+- 유지보수 용이한 형태로 코드 리팩토링 진행
+- 기존에 Activity와 Fragment를 1:1 구조로 사용하고 있는 형태에서 Navigation Component를 도입을 통해 큰 피처 단위로 분리 하여, SPA형태로 구현할 수 있도록 구조 변경
+- Camera2 → CameraX 마이그레이션 진행하여, 소변검사 이미지 인식 속도 2초 -> 0.5 초향상
+- Github Action을 사용하여 CI & CD 구축
+- Sentry + Timber 이용하여 Error Tracking 구축
+- 로그인 프로세스를 리팩토링 하여 사용자 로그인 불편함 개선 및 FitpetMall 연동 할 수 있도록 구현
+- 모발 검사 & 타액검사 기능 구현 및 출시
+
 ### 지팡이
 
 - 소개 : 실버세대를 위한 교육 서비스
