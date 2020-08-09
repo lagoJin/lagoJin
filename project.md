@@ -2,10 +2,10 @@
 
 - 소개 : 실버세대를 위한 교육 서비스
 - 기간 : 2019.01 ~ 2019.03
-- 관련 기술 : Kotlin, MVP, Spring MVC₩
 - 개발
+  - Kotlin, MVP를 사용하여, 안드로이드 개발
   - 로그인 기능 개발
-  - 시청 가능하도록 유투브 영상 연동
+  - 시청 가능하도록 Youtube 영상 연동
   - 문자 알림 서비스 기능 개발
 
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F1.jpg?alt=media&token=1a098c4d-fc82-4799-b1d9-15c5f4e6fd8d" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F2.jpg?alt=media&token=bd9ce23a-d928-4f92-9896-9b620dd3d095" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F3.jpg?alt=media&token=c3124e31-0c6f-43df-9a20-433e69e240ef" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F4.jpg?alt=media&token=32f832dd-d197-4f86-b07c-0185db6ce69e" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F5.jpg?alt=media&token=75a82fa9-1ea9-4cac-9326-52160cb4c0f3" width = "140" height = "246"/>
@@ -14,8 +14,8 @@
 
 - 소개 : 산업단지 재직자를 대상으로 한 출퇴근 카풀 서비스
 - 기간 : 2018.05 ~ 2018.12
-- 역할 : 안드로이드 어플리케이션 99% 담당, Api서버 50% 담당
 - 관련 기술 : Android, Spring MVC, Redis Cache Server
+- 역할 : 안드로이드 어플리케이션 99% 담당, Api서버 50% 담당
 
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F1.png?alt=media&token=7183cc07-9418-4de2-98e6-58d188fd6680" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F2.png?alt=media&token=c71f1117-5aac-490f-8bb5-5a89d3371241" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F3.png?alt=media&token=ec344051-72f3-495c-a4ee-9c689509b1fc" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F4.png?alt=media&token=37fc7411-db9a-448e-87dd-a04eef44fbd8" width = "140" height = "246"/>
 </br>
