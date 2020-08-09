@@ -14,8 +14,10 @@
 
 - 소개 : 산업단지 재직자를 대상으로 한 출퇴근 카풀 서비스
 - 기간 : 2018.05 ~ 2018.12
-- 관련 기술 : Android, Spring MVC, Redis Cache Server
-- 역할 : 안드로이드 어플리케이션 99% 담당, Api서버 50% 담당
+- 개발
+  - Java를 이용하여 Android 카풀 드라이버 서비스 개발
+  - 전체 기능 기획 및 프로젝트 설계
+  - FCM 활용하여 채팅 서비스 개발
 
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F1.png?alt=media&token=7183cc07-9418-4de2-98e6-58d188fd6680" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F2.png?alt=media&token=c71f1117-5aac-490f-8bb5-5a89d3371241" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F3.png?alt=media&token=ec344051-72f3-495c-a4ee-9c689509b1fc" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F4.png?alt=media&token=37fc7411-db9a-448e-87dd-a04eef44fbd8" width = "140" height = "246"/>
 </br>
@@ -27,16 +29,19 @@
 
 - 소개 : 로또 당첨정보와 랜덤번호를 생성해주는 서비스
 - 기간 : 2019.10 ~ 2020.03
-- 역할 : 안드로이드 어플리케이션 40% 담당 & Firebase Function 80% 담당
-- 관련 기술 : Kotlin, MVVM, CleanArchitecture, Dagger2, Glide, UnitTest, Mockk
+- 개발
+  - Kotlin, MVVM, Dagger2 ,Clean Architecture를 활용하여 아키텍쳐 설계
+  - JetPack + Coroutine 사용하여 Reactvie Programming 적용
+  - Coroutine 테스트에 용이한 Mockk를 사용하여 UnitTest 작성 및 개발
+  - Firebase의 제한적인 속도로, Room 사용하여 로또 당첨 정보 캐시 처리 및 속도 향상
 
 ### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
 - 기간 : 2019.09 ~ 2020.02
-- 역할 : 안드로이드 어플리케이션 100% 담당 & Api 100% 서버 담당
-- 관련 기술 : Kotlin, MVVM, Dagger2, Cloud function(node.js), Firestore
-
+- 개발
+  - Kotlin, MVVM, Dagger2 사용하여 아키텍쳐 설계
+  - Room을 사용하여 리스트 캐시 처리
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2Fkmovie.gif?alt=media&token=017d3f3b-6571-4ec3-a3f0-2b074f817a24" width = "264" height = "464"/>
 
 ### [동네마트](https://magarine-9ec6f.firebaseapp.com/)
