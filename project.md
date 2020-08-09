@@ -36,7 +36,7 @@
   - Coroutine 테스트에 용이한 Mockk를 사용하여 UnitTest 작성 및 개발
   - Firebase의 제한적인 속도로, Room 사용하여 로또 당첨 정보 캐시 처리 및 속도 향상
 
-  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2Flotto.gif?alt=media&token=223abdf5-23ac-448d-bcd7-983907a15c58" width = "264" height = "464"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2Flotto.gif?alt=media&token=4405c081-603e-4dbf-820e-9890844438a2" width = "264" height = "464"/>
 
 ### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
