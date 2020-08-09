@@ -8,7 +8,6 @@
   - 시청 가능하도록 Youtube 영상 연동
   - 문자 알림 서비스 기능 개발
 
-<br/>
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F1.jpg?alt=media&token=1a098c4d-fc82-4799-b1d9-15c5f4e6fd8d" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F2.jpg?alt=media&token=bd9ce23a-d928-4f92-9896-9b620dd3d095" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F3.jpg?alt=media&token=c3124e31-0c6f-43df-9a20-433e69e240ef" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F4.jpg?alt=media&token=32f832dd-d197-4f86-b07c-0185db6ce69e" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F5.jpg?alt=media&token=75a82fa9-1ea9-4cac-9326-52160cb4c0f3" width = "140" height = "246"/>
 
 ### 카풀로 드라이버
