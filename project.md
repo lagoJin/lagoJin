@@ -5,7 +5,7 @@
 - 역할 : 안드로이드 어플리케이션 99% 담당, APi서버 99% 담당
 - 관련 기술 : Kotlin, MVP, Spring MVC
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/1.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/2.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/3.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/4.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/jipangye/5.jpg" width = "140" height = "246"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F1.jpg?alt=media&token=1a098c4d-fc82-4799-b1d9-15c5f4e6fd8d" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F2.jpg?alt=media&token=bd9ce23a-d928-4f92-9896-9b620dd3d095" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F3.jpg?alt=media&token=c3124e31-0c6f-43df-9a20-433e69e240ef" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F4.jpg?alt=media&token=32f832dd-d197-4f86-b07c-0185db6ce69e" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F5.jpg?alt=media&token=75a82fa9-1ea9-4cac-9326-52160cb4c0f3" width = "140" height = "246"/>
 
 ### 카풀로 드라이버
 
@@ -14,9 +14,9 @@
 - 역할 : 안드로이드 어플리케이션 99% 담당, Api서버 50% 담당
 - 관련 기술 : Android, Spring MVC, Redis Cache Server
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/carpool/1.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/carpool/2.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/carpool/3.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/carpool/4.png" width = "140" height = "246"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F1.png?alt=media&token=7183cc07-9418-4de2-98e6-58d188fd6680" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F2.png?alt=media&token=c71f1117-5aac-490f-8bb5-5a89d3371241" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F3.png?alt=media&token=ec344051-72f3-495c-a4ee-9c689509b1fc" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F4.png?alt=media&token=37fc7411-db9a-448e-87dd-a04eef44fbd8" width = "140" height = "246"/>
 </br>
-<img src="https://github.com/lagoJin/resume/blob/master/images/carpool/5.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/carpool/6.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/carpool/7.png" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/carpool/8.png" width = "140" height = "246"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F5.png?alt=media&token=0975ebea-7ab6-474f-875a-2316c72c8e4c" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F6.png?alt=media&token=68d2dd1e-e790-4900-a716-79d467be505c" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F7.png?alt=media&token=d2f5131f-219f-4670-aaf8-c6be204a2cb9" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fcarpool%2F8.png?alt=media&token=77ebb1e9-35ac-45df-906a-ac94b52db18b" width = "140" height = "246"/>
 
 # 사이드 프로젝트
 
@@ -34,7 +34,7 @@
 - 역할 : 안드로이드 어플리케이션 100% 담당 & Api 100% 서버 담당
 - 관련 기술 : Kotlin, MVVM, Dagger2, Cloud function(node.js), Firestore
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/kmovie/kmovie.gif" width = "264" height = "464"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2Fkmovie.gif?alt=media&token=017d3f3b-6571-4ec3-a3f0-2b074f817a24" width = "264" height = "464"/>
 
 ### [동네마트](https://magarine-9ec6f.firebaseapp.com/)
 
@@ -43,4 +43,4 @@
 - 역할 : 안드로이드 어플리케이션 50% 담당
 - 관련 기술 : Kotlin, MVVM, DataBinding, koin
 
-<img src="https://github.com/lagoJin/resume/blob/master/images/gupang/1.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/2.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/3.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/4.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/5.jpg" width = "140" height = "246"/><img src="https://github.com/lagoJin/resume/blob/master/images/gupang/6.jpg" width = "140" height = "246"/> 
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fgupang%2F1.jpg?alt=media&token=db276bec-fe71-477e-9201-cbc90203de46" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fgupang%2F2.jpg?alt=media&token=dc995413-dfff-4377-ab77-4364adde9f17" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fgupang%2F3.jpg?alt=media&token=5bb48f6e-1899-40e6-b372-d7a55bec3e0e" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fgupang%2F4.jpg?alt=media&token=6c01daf1-2b3c-40a2-8cd4-791957170d47" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fgupang%2F5.jpg?alt=media&token=702c382d-174d-411a-b4b0-0b6a6ae11a20" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fgupang%2F6.jpg?alt=media&token=31ca06d7-0443-4aad-a9e3-5b9a1ce04eac" width = "140" height = "246"/> 

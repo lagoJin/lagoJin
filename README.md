@@ -1,23 +1,28 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlagoJin%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+## Hi there, I'm Jinho Kang - Android Enginner 
 
-## 소개
+Have a carrer of 1.8 years
+- Fitpet (03.2020 ~
+- Share & Share (05.2018 ~ 07.2019)
 
-- 이름 : 강진호
-- Email : jinho6187@gmail.com
-- Github : https://github.com/lagoJin
-- Blog : https://lagoJin.github.io
-- 취미 : 운동, 영화, **코딩**, **컨퍼런스 참가**
+### Activity
 
-> 본인의 능력에서 자만하지 않고 부족한 부분을 지속적으로 찾아 채우기 위해 노력하고 있습니다.
+- DDD Tech Group(2019.10 ~ 2020.02)
 
-# 회사경력
+### Interest
+- Android
+- Coroutine
+- nodejs
+- Weight Tranning
 
-### 핏펫
+<div align=center>
 
-- 2020.03 ~
-- 코드리뷰 문화 도입
+[![Education Badge](http://img.shields.io/badge/-Education%20-91fa46?style=flat-square&link=https://github.com/lagoJin/lagoJin/blob/master/education.md)](https://github.com/lagoJin/lagoJin/blob/master/education.md)
+[![Project Badge](http://img.shields.io/badge/-Project%20-0080ff?style=flat-square&link=https://github.com/lagoJin/resume/blob/master/project.md)](https://github.com/lagoJin/resume/blob/master/project.md)
+[![Certificate Badge](http://img.shields.io/badge/-Certificate%20-fcd12a?style=flat-square&link=https://github.com/lagoJin/lagoJin/blob/master/prime.md)](https://github.com/lagoJin/lagoJin/blob/master/prime.md)
 
+<<<<<<< HEAD
 ### 쉐어앤쉐어
 
 - 2018.05 ~ 2019.07(1년 3개월)
@@ -32,3 +37,6 @@
 ### [프로젝트 이력](https://github.com/lagoJin/resume/blob/master/project.md)
 
 ### [수상/자격증](https://github.com/lagoJin/resume/blob/matser/prime.md)
+=======
+</div>
+>>>>>>> bad67462d8507c8158cd592b94422d6f56eec69d
