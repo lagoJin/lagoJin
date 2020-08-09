@@ -35,13 +35,17 @@
   - Coroutine 테스트에 용이한 Mockk를 사용하여 UnitTest 작성 및 개발
   - Firebase의 제한적인 속도로, Room 사용하여 로또 당첨 정보 캐시 처리 및 속도 향상
 
+  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2Flotto.webm?alt=media&token=ad7258b8-c39a-4fc1-adf4-1bd9f487ad92" width = "264" height = "464"/>
+
 ### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
 - 소개 : 유튜브 K-pop 채널 영상을 하나의 어플에서 제공하는 서비스
 - 기간 : 2019.09 ~ 2020.02
 - 개발
   - Kotlin, MVVM, Dagger2 사용하여 아키텍쳐 설계
+  - Firebase Function을 사용하여 Yotuube 영상 구독 및 푸쉬 알림 서비스 개발
   - Room을 사용하여 리스트 캐시 처리
+
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2Fkmovie.gif?alt=media&token=017d3f3b-6571-4ec3-a3f0-2b074f817a24" width = "264" height = "464"/>
 
 ### [동네마트](https://magarine-9ec6f.firebaseapp.com/)
