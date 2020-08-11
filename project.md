@@ -1,6 +1,20 @@
+### 회사 경력
+
+- 핏펫 2020.03 ~
+- 쉐어앤쉐어 2018.05 ~ 2019.07
+
+### 활동
+
+- DDD IT 동아리 2019.10 ~ 2020.02
+
+### 자료
+
+- Github : https://github.com/lagoJin
+
 ### [핏펫](https://play.google.com/store/apps/details?id=kr.co.fitpet)
 
 - 소개 : 반려동물 플랫폼 서비스
+- 회사 : 핏펫
 - 기간 : 2020.03 ~
 - 개발
   - 코드 리뷰 & Git Flow 도입하여, 팀 코드 컨벤션 작성 및 코드 퀄리티 향상
@@ -16,11 +30,13 @@
 
 - 소개 : 실버세대를 위한 교육 서비스
 - 기간 : 2019.01 ~ 2019.03
+- 회사 : 핏펫
 - 개발
   - Kotlin, MVP를 사용하여, 안드로이드 개발
-  - 로그인 기능 개발
-  - 시청 가능하도록 Youtube 영상 연동
-  - 문자 알림 서비스 기능 개발
+  - 어르신들을 위해 Android 구글 로그인 기능 개발
+  - Firebase Store 이용하여, 영상 링크 저장
+  - 손 쉽게 시청 가능하도록 접근성이 용이한 Youtube 영상 연동
+  - 건강 문제 발생시, 문자 알림 서비스 기능 개발
 
 <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F1.jpg?alt=media&token=1a098c4d-fc82-4799-b1d9-15c5f4e6fd8d" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F2.jpg?alt=media&token=bd9ce23a-d928-4f92-9896-9b620dd3d095" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F3.jpg?alt=media&token=c3124e31-0c6f-43df-9a20-433e69e240ef" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F4.jpg?alt=media&token=32f832dd-d197-4f86-b07c-0185db6ce69e" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fjipangye%2F5.jpg?alt=media&token=75a82fa9-1ea9-4cac-9326-52160cb4c0f3" width = "140" height = "246"/>
 
@@ -28,7 +44,9 @@
 
 - 소개 : 산업단지 재직자를 대상으로 한 출퇴근 카풀 서비스
 - 기간 : 2018.05 ~ 2018.12
+- 회사 : 핏펫
 - 개발
+  - 산업단지 취업 시, 차량이 없으면 취업 못하는 현상에 착안하여 기획
   - Java를 이용하여 Android 카풀 드라이버 서비스 개발
   - 전체 기능 기획 및 프로젝트 설계
   - FCM 활용하여 채팅 서비스 개발
@@ -50,7 +68,7 @@
   - Coroutine 테스트에 용이한 Mockk를 사용하여 UnitTest 작성 및 개발
   - Firebase의 제한적인 속도로, Room 사용하여 로또 당첨 정보 캐시 처리 및 속도 향상
 
-  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2Flotto.gif?alt=media&token=4405c081-603e-4dbf-820e-9890844438a2" width = "264" height = "464"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F1.webp?alt=media&token=c50b4ecd-7179-4d1b-a504-2e59318dc282" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F2.webp?alt=media&token=3d0010c1-2361-4595-b9d8-fbe157c6416b" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F3.webp?alt=media&token=8e26df18-73e5-4f9d-b554-2ccfb96e13fe" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F4.webp?alt=media&token=23c0d9d3-85a6-474e-b852-1ff5f39ef182" width = "140" height = "246"/>
 
 ### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
@@ -62,7 +80,7 @@
   - Firebase Function을 사용하여 Yotuube 영상 구독 및 푸쉬 알림 서비스 개발
   - Room을 사용하여 리스트 캐시 처리
 
-<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2Fkmovie.gif?alt=media&token=017d3f3b-6571-4ec3-a3f0-2b074f817a24" width = "264" height = "464"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F1.webp?alt=media&token=e75013b8-9563-4bee-bec5-58342d2b2f47" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F2.jpg?alt=media&token=91ec0398-850b-4719-8a03-54fc1d1c72dd" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F3.jpg?alt=media&token=b4db4020-8415-4696-9cb4-94d5e144168f" width = "140" height = "246"/>
 
 ### [동네마트](https://magarine-9ec6f.firebaseapp.com/)
 
