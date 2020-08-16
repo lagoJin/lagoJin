@@ -66,7 +66,7 @@
   - Coroutine 테스트에 용이한 Mockk를 사용하여 UnitTest 작성 및 개발
   - Firebase의 제한적인 속도로, Room 사용하여 로또 당첨 정보 캐시 처리 및 속도 향상
 
-  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F1.webp?alt=media&token=c50b4ecd-7179-4d1b-a504-2e59318dc282" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F2.webp?alt=media&token=3d0010c1-2361-4595-b9d8-fbe157c6416b" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F3.webp?alt=media&token=8e26df18-73e5-4f9d-b554-2ccfb96e13fe" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F4.webp?alt=media&token=23c0d9d3-85a6-474e-b852-1ff5f39ef182" width = "140" height = "246"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F1.webp?alt=media&token=c50b4ecd-7179-4d1b-a504-2e59318dc282" width = "120" height = "200"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F2.webp?alt=media&token=3d0010c1-2361-4595-b9d8-fbe157c6416b" width = "120" height = "200"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F3.webp?alt=media&token=8e26df18-73e5-4f9d-b554-2ccfb96e13fe" width = "120" height = "200"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Flotto%2F4.webp?alt=media&token=23c0d9d3-85a6-474e-b852-1ff5f39ef182" width = "120" height = "200"/>
 
 ### [KMVOIE](https://play.google.com/store/apps/details?id=kr.jino.kmovie)
 
@@ -79,7 +79,7 @@
   - Firebase Function을 사용하여 Yotuube 영상 구독 및 푸쉬 알림 서비스 개발
   - Room을 사용하여 리스트 캐시 처리
 
-<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F1.webp?alt=media&token=e75013b8-9563-4bee-bec5-58342d2b2f47" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F2.jpg?alt=media&token=91ec0398-850b-4719-8a03-54fc1d1c72dd" width = "140" height = "246"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F3.jpg?alt=media&token=b4db4020-8415-4696-9cb4-94d5e144168f" width = "140" height = "246"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F1.webp?alt=media&token=e75013b8-9563-4bee-bec5-58342d2b2f47" width = "120" height = "200"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F2.jpg?alt=media&token=91ec0398-850b-4719-8a03-54fc1d1c72dd" width = "120" height = "200"/><img src="https://firebasestorage.googleapis.com/v0/b/magarine-9ec6f.appspot.com/o/images%2Fkmovie%2F3.jpg?alt=media&token=b4db4020-8415-4696-9cb4-94d5e144168f" width = "120" height = "200"/>
 
 ### [동네마트](https://magarine-9ec6f.firebaseapp.com/)
 
