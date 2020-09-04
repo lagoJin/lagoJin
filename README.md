@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlagoJin%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-## Hi there, I'm Jinho Kang - Android Enginner 
+## Hi there, I'm Jinho Kang - Android Developer
 
 Have a carrer of 1.9 years
 - Fitpet (03.2020 ~
