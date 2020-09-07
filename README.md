@@ -13,7 +13,7 @@ Have a carrer of 1.9 years
 ### Interest
 - Android
 - Coroutine
-- nodejs
+- Kotlin
 - Weight Tranning
 
 <div align=center>
