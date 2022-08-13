@@ -1,6 +1,7 @@
 ### 회사 경력
 
-- 핏펫 2020.03 ~
+- 카카오페이 2020.11 ~
+- 핏펫 2020.03 ~ 2020.10
 - 쉐어앤쉐어 2018.05 ~ 2019.07
 
 ### 활동
@@ -10,6 +11,17 @@
 ### 자료
 
 - Github : https://github.com/lagoJin
+
+### [카카오페이](https://play.google.com/store/apps/details?id=com.kakaopay.app)
+- 회사 : 카카오페이
+- 기간 : 2020.11 ~
+- 개발
+  - 계정 서비스 유지보수 및 개발
+  - 공통 서비스 
+  - 외국인 신분 인증 서비스 개발
+  - 일정에 맞추어 서비스 개발
+  - 멀티 모듈 적용
+
 
 ### [핏펫](https://play.google.com/store/apps/details?id=kr.co.fitpet)
 
