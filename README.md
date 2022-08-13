@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Jinho Kang - Android Developer
 
-- Kakaopay (11~2020 ~ )
+- Kakaopay (11.2020 ~ )
 - Fitpet (03.2020 ~ 11.2020)
 - Share & Share (05.2018 ~ 07.2019)
 
